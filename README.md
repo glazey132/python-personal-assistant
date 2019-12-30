@@ -19,4 +19,4 @@ A Python app that uses speech recognition and text-to-speech to enable a user to
 - Search Youtube
 - Check stocks with `price of` `stock name`
 - Available stock names are listed below:
-    -  ```apple, microsoft, facebook, tesla, bitcoin, google, jpmorgan, hyatt, "sony", bankofamerica, skyworks, cdw, amazon, macys, gap, dowjones, nasdaq, starbucks, disney, visa, paypal````
+    -  ```apple, microsoft, facebook, tesla, bitcoin, google, jpmorgan, hyatt, "sony", bankofamerica, skyworks, cdw, amazon, macys, gap, dowjones, nasdaq, starbucks, disney, visa, paypal```
